@@ -4,4 +4,4 @@ ini adalah tampilan program dan hasil menentukan nilai terbesar dari 3 buah bila
 ![gambar1](ss/ss1.jpg)
 ### Berikut adalah flowchart 
 ini adalah tampilannya 
-![gambar2](ss/ss2.jpg)
+![gambar2](ss/ss.2.jpg)
