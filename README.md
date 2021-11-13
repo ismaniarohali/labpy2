@@ -15,7 +15,7 @@ a sebagai bilangan pertama,
 
 ini adalah tampilan program dan hasil menentukan nilai terbesar dari 3 buah bilangan 
 
-![gambar1](ss/ss1.jpg)
+![gambar1](ss/ss8.png)
 
 untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 
