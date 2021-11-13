@@ -6,12 +6,16 @@ untuk a di inisiasikan sebagai bilangan pertama, b untuk bilangan kedua, c untuk
 dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar program dan tulisan programnya
 ini adalah tampilan program dan hasil menentukan nilai terbesar dari 3 buah bilangan 
 ![gambar1](ss/ss1.jpg)
+
 untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 ![gambar2](ss/bil1.png)
+
 dan untuk bilangan kedua yang terbesar ketika program dijalankan yaitu
 ![gambar3](ss/bil2.png)
+
 sedangkan untuk bilangan ketiga yang terbesar ketika program dijalankan
 ![gambar4](ss/bil3.png)
+
 ### flowchart 
  berikut adalah tampilan dari flowchart untuk menentukan nilai terbesar dari 3 buah bilangan
 ![gambar5](ss/ss.2.jpg)
@@ -30,9 +34,10 @@ sedangkan untuk bilangan ketiga yang terbesar ketika program dijalankan
 5.)print("data ke", i+1,"=",(random.uniform(0.1,0.5))) - adalah perintah untuk menampilkan hasil yang 
 telah di input dengan ketentuan random uniform mulai dari nilai 0.1 sampai 0.5
 
- berikut ini adalah gambaran programnnya
+ Berikut ini adalah gambaran programnnya
  ![gambar6](ss/ss.1.png)
- berikut ini adalah hasil dari program saat dijalankan
+
+ Berikut ini adalah hasil dari program saat dijalankan
  ![gambar7](ss/ss.3.png)
 
  ### latihan 2
@@ -57,8 +62,9 @@ while True: - adalah perintah untuk pengulangan hingga waktu yang tidak ditentuk
 
 9) terbesar dari angka-angka yang telah terinput
 
-berikut ini adalah gambaran programnnya
+Berikut ini adalah gambaran programnnya
 ![gambar8](ss/ss4.png)
+
 dan ini adalah hasil pogram yang di jalankan 
 ![gambar9](ss/ss5.png)
 
@@ -83,5 +89,6 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 Berikut ini adalah gambaran dari program nya
 ![gambar10](ss/ss6.png)
-berikut ini adalah hasil dari program setelah dijalankan
+
+Berikut ini adalah hasil dari program setelah dijalankan
 ![gambar11](ss/ss7.png)
